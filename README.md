@@ -8,17 +8,17 @@ El objetivo es identificar los géneros, artistas y colaboraciones más relevant
 ## 📊 Vistas del Dashboard
 
 ### 📌 Portada
-![Portada](img/portada.png)
+![Portada](https://github.com/FedericoLami/spotify-top-charts/blob/main/img/portada.png)
 
 ---
 
 ### 📌 Panel de control
-![Panel de control](img/panel_control.png)
+![Panel de control](https://github.com/FedericoLami/spotify-top-charts/blob/main/img/panel%20de%20control.png)
 
 ---
 
 ### 📌 Estudio general
-![Estudio general](img/estudio_general.png)
+![Estudio general](https://github.com/FedericoLami/spotify-top-charts/blob/main/img/Estudio%20general.png)
 
 - Ranking de artistas más populares.  
 - Número de hits y semanas promedio en charts.  
@@ -26,7 +26,7 @@ El objetivo es identificar los géneros, artistas y colaboraciones más relevant
 ---
 
 ### 📌 Estudio de mercado colaborativo
-![Estudio de mercado colaborativo](img/mercado_colaborativo.png)
+![Estudio de mercado colaborativo](https://github.com/FedericoLami/spotify-top-charts/blob/main/img/mercado%20colaborativo.png)
 
 - Número de colaboraciones por artista.  
 - Followers alcanzados gracias a dichas colaboraciones.  
@@ -34,7 +34,7 @@ El objetivo es identificar los géneros, artistas y colaboraciones más relevant
 ---
 
 ### 📌 Mercado general
-![Mercado general](img/mercado_general.png)
+![Mercado general](https://github.com/FedericoLami/spotify-top-charts/blob/main/img/mercado%20general.png)
 
 - Streams anuales.  
 - Seguidores por género musical.  
@@ -42,7 +42,7 @@ El objetivo es identificar los géneros, artistas y colaboraciones más relevant
 ---
 
 ### 📌 Tendencias de mercado colaborativo
-![Tendencias de mercado colaborativo](img/tendencias_colaborativo.png)
+![Tendencias de mercado colaborativo](https://github.com/FedericoLami/spotify-top-charts/blob/main/img/tendencias%20mercado%20col.png)
 
 - Número de hits por combinaciones de géneros.  
 - Variación de streams promedio entre 2017-2018 y 2018-2019.  
